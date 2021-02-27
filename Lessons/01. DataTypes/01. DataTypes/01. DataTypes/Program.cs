@@ -10,17 +10,21 @@ namespace _01.DataTypes
     {
         static void Main(string[] args)
         {
-            string name;
-            Console.WriteLine("Enter your name: ");
-            name = Console.ReadLine();
-            if (name == "")
-            {
-                Console.WriteLine("Hello World!");
-            }
-            else
-            {
-                Console.WriteLine("Hello, " + name + "!");
-            }
+            //string name;
+            //Console.WriteLine("Enter your name: ");
+            //name = Console.ReadLine();
+            //if (name == "")
+            //{
+            //    Console.WriteLine("Hello World!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Hello, " + name + "!");
+            //}
+
+            int? nullInt = null;
+            nullInt = nullInt ?? 50;
+            Console.WriteLine("Result = {0} ",nullInt);
         }
     }
 }
