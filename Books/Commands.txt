@@ -1,0 +1,2 @@
+csc /t:exe /out:D:\start.exe Program.cs  #### Compile with Developer command prompt
+ildasm          #### Run disassembler

@@ -1,0 +1,7 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\bin\Debug\_01.DataTypes.exe.config
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\bin\Debug\_01.DataTypes.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\bin\Debug\_01.DataTypes.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\obj\Debug\01. DataTypes.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\obj\Debug\01. DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\obj\Debug\_01.DataTypes.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\01. DataTypes\01. DataTypes\01. DataTypes\obj\Debug\_01.DataTypes.pdb
