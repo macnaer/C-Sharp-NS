@@ -1,0 +1,13 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\bin\Debug\netcoreapp3.1\02. methods arrays string.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\02. methods arrays string\02. methods arrays string\obj\Debug\netcoreapp3.1\02. methods arrays string.genruntimeconfig.cache
