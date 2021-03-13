@@ -72,31 +72,40 @@ namespace _02._methods_arrays_string
 
             // Example 5 Jagged (Зубчасті)
 
-            int [][] jaggedArr = new int[4][];
-            jaggedArr[0] = new int[2];
-            jaggedArr[1] = new int[4];
-            jaggedArr[2] = new int[3];
-            jaggedArr[3] = new int[5];
+            //int [][] jaggedArr = new int[4][];
+            //jaggedArr[0] = new int[2];
+            //jaggedArr[1] = new int[4];
+            //jaggedArr[2] = new int[3];
+            //jaggedArr[3] = new int[5];
 
-            Console.WriteLine("Enter array values: ");
+            //Console.WriteLine("Enter array values: ");
 
-            for(int i = 0; i < jaggedArr.Length; i++)
-            {
-                for(int j =0; j < jaggedArr[i].Length; j++)
-                {
-                    jaggedArr[i][j] = int.Parse(Console.ReadLine());
-                }
+            //for(int i = 0; i < jaggedArr.Length; i++)
+            //{
+            //    for(int j =0; j < jaggedArr[i].Length; j++)
+            //    {
+            //        jaggedArr[i][j] = int.Parse(Console.ReadLine());
+            //    }
+            //}
+
+            //for (int i = 0; i < jaggedArr.Length; i++)
+            //{
+            //    for (int j = 0; j < jaggedArr[i].Length; j++)
+            //    {
+            //        Console.Write($"{jaggedArr[i][j]} ");
+
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+            // Example 6   "02. methods arrays string.exe" /arg1 -arg2
+            for (int i = 0; i < args.Length; i++) {
+                Console.WriteLine($"Args: {args[i]}");
             }
+            Console.ReadLine();
 
-            for (int i = 0; i < jaggedArr.Length; i++)
-            {
-                for (int j = 0; j < jaggedArr[i].Length; j++)
-                {
-                    Console.Write($"{jaggedArr[i][j]} ");
 
-                }
-                Console.WriteLine();
-            }
         }
 
         private static void Print(int[] arr)
