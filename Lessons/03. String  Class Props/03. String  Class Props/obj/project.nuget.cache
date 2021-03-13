@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpJf1fXNDNqcl28ikgxwbbikn9zwPpXffsUHiEXjuJFr74IzFSkBGJ0FpW1KfJ/DwzxgpP1nIKEwtKzy54qxEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\03. String  Class Props\\03. String  Class Props\\03. String  Class Props.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
