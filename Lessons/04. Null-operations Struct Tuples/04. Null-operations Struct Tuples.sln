@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Null-operations Struct Tuples", "04. Null-operations Struct Tuples\04. Null-operations Struct Tuples.csproj", "{CFBC6E38-0697-4236-A40B-BDF90C7580AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBC6E38-0697-4236-A40B-BDF90C7580AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBC6E38-0697-4236-A40B-BDF90C7580AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBC6E38-0697-4236-A40B-BDF90C7580AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBC6E38-0697-4236-A40B-BDF90C7580AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E44E1BD-8D3E-4619-AC7B-5272A999FE18}
+	EndGlobalSection
+EndGlobal

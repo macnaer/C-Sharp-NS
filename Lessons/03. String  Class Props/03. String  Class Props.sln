@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. String  Class Props", "03. String  Class Props\03. String  Class Props.csproj", "{DCDB58AC-D3EF-4859-B863-F06A617915CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. String  Class Props", "03. String  Class Props\03. String  Class Props.csproj", "{DCDB58AC-D3EF-4859-B863-F06A617915CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Props", "Class Props\Class Props.csproj", "{D8B77BF5-216A-4CC3-895A-0101DE581E0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DCDB58AC-D3EF-4859-B863-F06A617915CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCDB58AC-D3EF-4859-B863-F06A617915CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCDB58AC-D3EF-4859-B863-F06A617915CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B77BF5-216A-4CC3-895A-0101DE581E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B77BF5-216A-4CC3-895A-0101DE581E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B77BF5-216A-4CC3-895A-0101DE581E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B77BF5-216A-4CC3-895A-0101DE581E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

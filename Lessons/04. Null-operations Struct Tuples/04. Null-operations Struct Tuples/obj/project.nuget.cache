@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+++3cA8DuwP0ij+AxlNR8DbucqNLoCS4GyprlZ9gA0G/2KZoB71F4nxK/ZobCB5KP20nABgQ/gDL2OqDRkpWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\04. Null-operations Struct Tuples\\04. Null-operations Struct Tuples\\04. Null-operations Struct Tuples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

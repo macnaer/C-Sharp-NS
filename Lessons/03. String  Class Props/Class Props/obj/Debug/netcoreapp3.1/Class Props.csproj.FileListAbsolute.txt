@@ -1,0 +1,13 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\bin\Debug\netcoreapp3.1\Class Props.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\03. String  Class Props\Class Props\obj\Debug\netcoreapp3.1\Class Props.genruntimeconfig.cache
