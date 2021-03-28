@@ -1,0 +1,23 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\ref\Student.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\Student.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.csproj.CopyComplete
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\ref\Student.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\obj\Debug\net5.0\Student.genruntimeconfig.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Student\bin\Debug\net5.0\05. Успадкування. Абстрактні  класи.pdb
