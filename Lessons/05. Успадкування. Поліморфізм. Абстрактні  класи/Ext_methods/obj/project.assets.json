@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\k2\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj",
-      "projectName": "05. Успадкування. Абстрактні  класи",
-      "projectPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj",
+      "projectUniqueName": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Ext_methods\\Ext_methods.csproj",
+      "projectName": "Ext_methods",
+      "projectPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Ext_methods\\Ext_methods.csproj",
       "packagesPath": "C:\\Users\\k2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\obj\\",
+      "outputPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Ext_methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,15 +28,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",

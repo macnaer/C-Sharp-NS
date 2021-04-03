@@ -1,0 +1,13 @@
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.exe
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.deps.json
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.runtimeconfig.json
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.runtimeconfig.dev.json
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.dll
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\bin\Debug\netcoreapp3.1\Ext_methods.pdb
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.AssemblyInfo.cs
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.dll
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.pdb
+C:\Users\k2\Desktop\c#\Lessons\05. Успадкування. Поліморфізм. Абстрактні  класи\Ext_methods\obj\Debug\netcoreapp3.1\Ext_methods.genruntimeconfig.cache

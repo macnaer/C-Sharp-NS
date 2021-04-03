@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\Student.csproj",
+      "projectUniqueName": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\Student.csproj",
       "projectName": "Student",
-      "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\Student.csproj",
+      "projectPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\Student.csproj",
       "packagesPath": "C:\\Users\\k2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\obj\\",
+      "outputPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\Student\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj": {
-              "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\C# NS\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj"
+            "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj": {
+              "projectPath": "C:\\Users\\k2\\Desktop\\c#\\Lessons\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Поліморфізм. Абстрактні  класи\\05. Успадкування. Абстрактні  класи.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

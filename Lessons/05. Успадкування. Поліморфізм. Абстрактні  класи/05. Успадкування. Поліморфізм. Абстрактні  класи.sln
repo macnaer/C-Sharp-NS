@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Успадкування. Абстрактні  класи", "05. Успадкування. Поліморфізм. Абстрактні  класи\05. Успадкування. Абстрактні  класи.csproj", "{64268F00-7A7A-4A34-80B3-04F4EB661EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{6E92F7E0-4CAC-47F1-9AE4-E8B4FD65D566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student", "Student\Student.csproj", "{6E92F7E0-4CAC-47F1-9AE4-E8B4FD65D566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext_methods", "Ext_methods\Ext_methods.csproj", "{67385869-78BE-480E-B897-1A9C51A39EE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6E92F7E0-4CAC-47F1-9AE4-E8B4FD65D566}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E92F7E0-4CAC-47F1-9AE4-E8B4FD65D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E92F7E0-4CAC-47F1-9AE4-E8B4FD65D566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67385869-78BE-480E-B897-1A9C51A39EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67385869-78BE-480E-B897-1A9C51A39EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67385869-78BE-480E-B897-1A9C51A39EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67385869-78BE-480E-B897-1A9C51A39EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
