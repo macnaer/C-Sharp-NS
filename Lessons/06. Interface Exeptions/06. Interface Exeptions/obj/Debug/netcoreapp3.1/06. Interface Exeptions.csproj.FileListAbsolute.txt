@@ -1,0 +1,13 @@
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.exe
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.deps.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.runtimeconfig.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.runtimeconfig.dev.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\bin\Debug\netcoreapp3.1\06. Interface Exeptions.pdb
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.AssemblyInfo.cs
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.pdb
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\06. Interface Exeptions\obj\Debug\netcoreapp3.1\06. Interface Exeptions.genruntimeconfig.cache

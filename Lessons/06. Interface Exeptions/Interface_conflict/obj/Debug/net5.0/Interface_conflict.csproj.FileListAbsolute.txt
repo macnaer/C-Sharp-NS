@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.exe
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.deps.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.runtimeconfig.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.runtimeconfig.dev.json
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\ref\Interface_conflict.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\bin\Debug\net5.0\Interface_conflict.pdb
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.AssemblyInfo.cs
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\ref\Interface_conflict.dll
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.pdb
+C:\Users\k2\Desktop\c#\Lessons\06. Interface Exeptions\Interface_conflict\obj\Debug\net5.0\Interface_conflict.genruntimeconfig.cache
