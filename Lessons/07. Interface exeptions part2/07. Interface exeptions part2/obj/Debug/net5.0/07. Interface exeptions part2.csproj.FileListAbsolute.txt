@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\ref\07. Interface exeptions part2.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\bin\Debug\net5.0\07. Interface exeptions part2.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\ref\07. Interface exeptions part2.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\07. Interface exeptions part2\obj\Debug\net5.0\07. Interface exeptions part2.genruntimeconfig.cache

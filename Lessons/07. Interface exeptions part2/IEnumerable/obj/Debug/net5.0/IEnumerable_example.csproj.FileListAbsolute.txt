@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\ref\IEnumerable_example.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\bin\Debug\net5.0\IEnumerable_example.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\ref\IEnumerable_example.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\07. Interface exeptions part2\IEnumerable\obj\Debug\net5.0\IEnumerable_example.genruntimeconfig.cache
