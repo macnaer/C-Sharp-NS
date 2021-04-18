@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\ref\09. Delegate.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\bin\Debug\net5.0\09. Delegate.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\ref\09. Delegate.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\09. Delegate\obj\Debug\net5.0\09. Delegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\ref\Delegae_as_param.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\bin\Debug\net5.0\Delegae_as_param.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\ref\Delegae_as_param.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegae_as_param\obj\Debug\net5.0\Delegae_as_param.genruntimeconfig.cache

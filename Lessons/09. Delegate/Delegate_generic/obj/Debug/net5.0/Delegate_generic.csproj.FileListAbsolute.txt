@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\ref\Delegate_generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\bin\Debug\net5.0\Delegate_generic.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\ref\Delegate_generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\09. Delegate\Delegate_generic\obj\Debug\net5.0\Delegate_generic.genruntimeconfig.cache

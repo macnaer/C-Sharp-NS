@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Delegae_as_param/1.0.0": {
+        "runtime": {
+          "Delegae_as_param.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegae_as_param/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

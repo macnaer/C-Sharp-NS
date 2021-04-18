@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\ref\08. Generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\bin\Debug\net5.0\08. Generic.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\ref\08. Generic.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\08. Generic\08. Generic\obj\Debug\net5.0\08. Generic.genruntimeconfig.cache

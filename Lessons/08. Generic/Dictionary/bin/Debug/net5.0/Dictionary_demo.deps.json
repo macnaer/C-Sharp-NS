@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dictionary_demo/1.0.0": {
+        "runtime": {
+          "Dictionary_demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
