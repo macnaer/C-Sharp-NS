@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. GD Dispose", "11. GD Dispose\11. GD Dispose.csproj", "{E6F998E7-4BBC-4FB9-B678-21FCF3961531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC", "GD\GC.csproj", "{DEC0F6D3-0DEF-424A-896C-C115192FF699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F998E7-4BBC-4FB9-B678-21FCF3961531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F998E7-4BBC-4FB9-B678-21FCF3961531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F998E7-4BBC-4FB9-B678-21FCF3961531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F998E7-4BBC-4FB9-B678-21FCF3961531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC0F6D3-0DEF-424A-896C-C115192FF699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC0F6D3-0DEF-424A-896C-C115192FF699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC0F6D3-0DEF-424A-896C-C115192FF699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC0F6D3-0DEF-424A-896C-C115192FF699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93005CD-4425-4DE7-943A-5917A69C6DF1}
+	EndGlobalSection
+EndGlobal

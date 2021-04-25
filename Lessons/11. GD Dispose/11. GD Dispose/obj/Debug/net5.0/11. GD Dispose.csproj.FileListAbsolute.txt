@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\ref\11. GD Dispose.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\bin\Debug\net5.0\11. GD Dispose.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\ref\11. GD Dispose.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\11. GD Dispose\11. GD Dispose\obj\Debug\net5.0\11. GD Dispose.genruntimeconfig.cache

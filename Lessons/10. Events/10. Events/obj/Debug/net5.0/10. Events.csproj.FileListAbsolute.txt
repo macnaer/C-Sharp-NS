@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\ref\10. Events.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\bin\Debug\net5.0\10. Events.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\ref\10. Events.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\10. Events\10. Events\obj\Debug\net5.0\10. Events.genruntimeconfig.cache
