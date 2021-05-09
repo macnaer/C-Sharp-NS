@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>BMW</Brand>
+    <Year>2014</Year>
+    <Engine>
+      <Power>2.5</Power>
+    </Engine>
+  </Car>
+  <Car>
+    <Brand>Audi</Brand>
+    <Year>2013</Year>
+    <Engine>
+      <Power>2.2</Power>
+    </Engine>
+  </Car>
+</ArrayOfCar>

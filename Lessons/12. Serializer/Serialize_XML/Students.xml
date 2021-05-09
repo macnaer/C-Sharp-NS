@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Group name="xcb-11">
+  <student id="1">
+    <name>Camilla</name>
+    <surname >Terry</surname>
+    <score>11.6</score>
+  </student>
+  
+</Group>

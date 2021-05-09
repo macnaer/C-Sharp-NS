@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\ref\Serialize_XML.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\bin\Debug\net5.0\Serialize_XML.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\ref\Serialize_XML.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\Serialize_XML\obj\Debug\net5.0\Serialize_XML.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.exe
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.deps.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\ref\12. Serializer.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\bin\Debug\net5.0\12. Serializer.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\ref\12. Serializer.dll
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.pdb
+C:\Users\k2\Desktop\Lessons\C# NS\Lessons\12. Serializer\12. Serializer\obj\Debug\net5.0\12. Serializer.genruntimeconfig.cache
